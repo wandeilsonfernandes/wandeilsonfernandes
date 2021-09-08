@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on pace of world
 - 📫 How to reach me 
-<img src="https://octodex.github.com/images/NUX_Octodex.gif"></img>
+  <img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif"></img>
 
 <!---
 wandeilsonfernandes/wandeilsonfernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
