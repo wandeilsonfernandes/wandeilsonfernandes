@@ -1,4 +1,8 @@
-## Oiii! Eu sou Wandeilson Fernandes
+## Olá! Eu sou Wandeilson Fernandes
+- :nerd_face: Sou estudante de Programação.
+- 🌱 Atualmente estudando: **JavaScript**.
+- 💙 <i>⁠"É preciso ter o caos dentro de si para gerar uma estrela dançante."</i>.
+
  <div>
   <a href="https://github.com/wandeilsonfernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandeilsonfernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
