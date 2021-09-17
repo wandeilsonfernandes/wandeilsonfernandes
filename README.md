@@ -1,6 +1,6 @@
 - :nerd_face: Sou estudante de Programação.
 - 🌱 Atualmente estudando: **JavaScript**.
-- 💙 <i>⁠"Nenhuma pessoa que não domine a si mesma é livre."</i>.
+- 💙 <i>⁠"Nenhuma pessoa que não domine a si mesma é livre."</i>
 
  <div>
   <a href="https://github.com/wandeilsonfernandes">
