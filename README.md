@@ -1,7 +1,6 @@
-## Olá! Eu sou Wandeilson Fernandes
 - :nerd_face: Sou estudante de Programação.
 - 🌱 Atualmente estudando: **JavaScript**.
-- 💙 <i>⁠"É preciso ter o caos dentro de si para gerar uma estrela dançante."</i>.
+- 💙 <i>⁠"Nenhuma pessoa que não domine a si mesma é livre."</i>.
 
  <div>
   <a href="https://github.com/wandeilsonfernandes">
