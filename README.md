@@ -1,5 +1,5 @@
 - :nerd_face: Sou estudante de Programação.
-- 🌱 Atualmente estudando: **Java**.
+- 🌱 Atualmente estudando: **Python e Javascript**.
 - 💙 <i>⁠"Nenhuma pessoa que não domine a si mesma é livre."</i>
 
  <div>
