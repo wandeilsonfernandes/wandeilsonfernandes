@@ -16,10 +16,14 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Space" height="200" width="200" src="https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif"> 
+
 </div>
   
   ##
+<div>
+   <img align="center" alt="Space" height="200" width="200" src="https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif"> 
+</div>
+
  
 <div> 
   <a href="https://www.youtube.com/channel/UCjAD8qbdjX-_A5EzGi_2UAQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
