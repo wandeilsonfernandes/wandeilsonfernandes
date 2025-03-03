@@ -12,8 +12,8 @@
 ## 🚀 O que estou aprendendo no momento:
 
 - **Desenvolvimento Full-Stack**
-- **C#**
-- **React**
+- **Python**
+- **Django**
 - **Java**
 
 ---
