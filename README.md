@@ -12,8 +12,7 @@
 ## 🚀 O que estou aprendendo no momento:
 
 - **Desenvolvimento Full-Stack**
-- **Python**
-- **Django**
+- **ReactJS**
 - **Java**
 
 ---
@@ -22,7 +21,7 @@
 
 - **Linguagens**: C, Python, JavaScript
 - **Banco de Dados**: MySQL, PostgreSQL
-- **Frameworks e Ferramentas**: NextJS, Git
+- **Frameworks e Ferramentas**: ReactJS, Git
 
 ---
 ## 📌 Áreas de Interesse:
